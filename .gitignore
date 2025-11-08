@@ -1,0 +1,39 @@
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# Build Artifacts (PyInstaller, setuptools)
+build/
+dist/
+*.spec
+*.egg-info/
+*.egg
+
+# Logs & Temp Files
+*.log
+tmp/
+temp/
+
+# IDE / Editor Settings
+.vscode/
+.idea/
+*.swp
+
+# OS / System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sensitive / Config Files
+*.env
+*.key
+*.pem
