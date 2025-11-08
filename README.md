@@ -1,6 +1,7 @@
 # PDF Utility Tool
 
-PDF Utility Tool is a free, offline, and open-source desktop application designed to simplify PDF management.
+PDF Utility Tool is a free, offline, and open-source desktop application designed to simplify PDF management.<br>
+
 Built with Python, Tkinter, and ttkbootstrap, it provides essential PDF editing and conversion features in a clean, dark-themed interface — no internet connection required.
 
 ---
@@ -19,7 +20,8 @@ Built with Python, Tkinter, and ttkbootstrap, it provides essential PDF editing 
 
 ## Introduction
 
-Managing PDFs shouldn’t require paid tools or internet access.
+Managing PDFs shouldn’t require paid tools or internet access.<br>
+
 This project offers a lightweight, secure, and beginner-friendly solution for everyday PDF operations such as merging, splitting, rotating, compressing, and protecting documents — all handled completely offline.
 
 Whether you’re a student, professional, or developer, this tool makes working with PDFs fast, private, and simple.
