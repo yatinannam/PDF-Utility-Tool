@@ -43,19 +43,19 @@ Whether you’re a student, professional, or developer, this tool makes working 
 
 ## Tech Stack
 
--Language: Python 3.x
--GUI Framework: Tkinter + ttkbootstrap
--PDF Libraries: PyMuPDF (fitz), pypdf
--Design: Tab-based interface for clear module separation
--License: MIT License
+- Language: Python 3.x
+- GUI Framework: Tkinter + ttkbootstrap
+- PDF Libraries: PyMuPDF (fitz), pypdf
+- Design: Tab-based interface for clear module separation
+- License: MIT License
 
 ---
 
 ## Prerequisites
 
 Before running the tool, ensure the following are installed:
--Python 3.8+ (recommended 3.10 or above)
--pip (Python package manager)
+- Python 3.8+ (recommended 3.10 or above)
+- pip (Python package manager)
 
 Install the required Python packages:
 
